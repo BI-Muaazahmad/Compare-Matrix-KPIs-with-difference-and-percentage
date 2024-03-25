@@ -34,7 +34,7 @@ Create a matrix visual to compare values between two months for various entities
 
 <p align="center">
 Output Result: <br/>
-<img src="https://imgur.com/05cf0f50-dd79-47a2-8100-e6923e9d876e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QbBoky8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
